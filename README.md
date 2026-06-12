@@ -1,6 +1,6 @@
 # RelaxRD
 
-This repository contains the reference implementation for the paper  
+This repository contains the official implementation of the PVLDB 2026 paper:
 "Storage-Centric Relation Design via High-Quality Approximate Functional Dependencies".
 
 RelaxRD studies how to design relational schemas guided by approximate functional dependencies (AFDs) in order to reduce storage redundancy while guaranteeing lossless reconstruction.
